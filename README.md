@@ -1,12 +1,10 @@
 # IPL_Data_Analysis_Python
-Problem Statement: I have consolidated the data for each of the player sold in the IPL 2022 auction and that of the reatained players from each franchise.
+Problem Statement: I have consolidated data for each of the players sold in the IPL 2022 auction, as well as the retained players from each franchise. The data contains information such as matches played, runs, wickets, averages, strike rates, catches, runouts, and stumps.
 
-The data Contains information like-matches played, runs, wickets, average, strike rate, catches, runouts, stumps, etc.
+Based on these data points, I created the best 11 from this set of players for the current campaign. I summarized my analysis in the following steps:
 
-Based on these data points - I created the best 11 from these set of players from the current campaign.Summarizing my analysis in the following steps:
-
-Extraction and loading the data.
-Cleaning the data and removing the noise.
-Analyze the data on different parameters.
-Visualizing the important statistical findings.
-Making the best team of 11 - based on the ICC world cup winning squad formation and last year's squad formation of the winning team in the IPL. i.e how many batters, bowlers and allrounders should be included in the team.
+1. Extract and load the data.
+2. Clean the data and remove noise.
+3. Analyze the data on different parameters.
+4. Visualize the important statistical findings.
+5. Create the best team of 11 based on the ICC World Cup winning squad formation and last year's squad formation of the winning team in the IPL. This includes determining how many batters, bowlers, and all-rounders should be included in the team.
